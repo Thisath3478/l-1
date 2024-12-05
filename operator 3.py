@@ -1,3 +1,4 @@
+#medical
 medical = input("Enter your medical yes or no:")
 attendence = int(input("Enter your attendance:"))
 if medical == "YES":
