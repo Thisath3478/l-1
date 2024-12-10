@@ -9,7 +9,7 @@ else:
     else:
         print ("No you are not allowed")
 
-
+#bike or car
 print ("Please select your choise")
 print ("1 is bike")
 print ("2 is car")
@@ -34,7 +34,7 @@ else :
             print ("You have selected the, Lakyan Hyper sport")
 
 
-
+#unit
 unit= int(input("Please enter the unit"))
 if unit<50:
     amount=unit*2.60
