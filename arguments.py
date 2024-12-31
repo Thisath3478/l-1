@@ -27,3 +27,35 @@ def factorial(x):
         return 1
     else:
         return x * factorial(x-1)
+
+
+
+num = 7
+if num > 3:
+    print ("3")
+if num < 5:
+    print ("5")
+if num == 7:
+    print ("7")
+
+if 4 + 5 == 10:
+    print ("true")
+else:
+    print ("false")
+
+
+x = 0
+while false:
+x = x+1
+print ("soo good to see you")
+
+
+
+true = false 
+while true:
+    print (true)
+
+
+x=100
+y=50
+print ( x and y)
