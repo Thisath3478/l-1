@@ -31,4 +31,4 @@ def trip_cods (city,day,spending_cost):
 print("Cost of car rental: ",rental_car_cost(6))
 print("Cost of plane ride: ",plane_ride_cost("Tokyo"))
 print("Cost of hotel room: ", hotel_cost(7))
-print("Total cost of the trip:",trip_cost("Tokyo",7,500))
+print("Total cost of the trip:",trip_cost("Tokyo",7,500)) 
